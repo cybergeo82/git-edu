@@ -4,3 +4,4 @@ print("Issue 2")
 print("Issue 3")
 
 hotfix1 = 1
+hotfix2 = 2
