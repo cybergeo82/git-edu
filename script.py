@@ -6,3 +6,5 @@ print("Issue 4 fixed")
 
 hotfix1 = 1
 hotfix2 = 2
+
+print("New string")
